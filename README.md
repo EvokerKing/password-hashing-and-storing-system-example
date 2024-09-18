@@ -1,0 +1,2 @@
+# Password Hashing and Storing System Example
+This project is an example of how passwords could be securely hashed, encrypted, and stored. It isn't the most secure due to a few issues but the idea could be made into something larger scale and more secure. It uses C++ packages to manipulate json, hash with SHA256, and do encryption.
