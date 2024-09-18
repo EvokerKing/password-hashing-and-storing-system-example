@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
-#include "SHA256/src/SHA256.cpp"
-#include "json/include/nlohmann/json.hpp" // using json as a database just because its easiest to set up
-#include "easy-encryption/encrypt.h"
+#include "packages/SHA256/src/SHA256.cpp"
+#include "packages/json/include/nlohmann/json.hpp" // using json as a database just because its easiest to set up
+#include "packages/easy-encryption/encrypt.h"
 
 std::string RETURNKEY = "7e03f055"; // random return key, doesnt need to be hexadecimal
 
